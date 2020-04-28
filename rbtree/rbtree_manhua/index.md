@@ -11,19 +11,11 @@ original_url: https://baijiahao.baidu.com/s?id=1641940303518144126&wfr=spider&fo
 
 # 漫画：什么是红黑树
 
-[![到百度首页](assets/1588038360-167de233949df2ccc4331746c45df11f.png "到百度首页")](https://www.baidu.com/)
-
-[百度首页](https://www.baidu.com/)
-
-[wiseheadchen](http://i.baidu.com/)
 
 ## 漫画：什么是红黑树
 
-![](assets/1588038360-a110eb127258090541094e2f4d8bbcdb.jpg)
 
-脚本之家
 
-发布时间：19-08-1609:27
 
 ![](assets/1588038360-f37fa8ba2e7a82596a6fcfc0be06c58b.jpeg)
 
